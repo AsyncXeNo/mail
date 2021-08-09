@@ -1,0 +1,1 @@
+Syntax - ./mail.py <target_email> "<subject>" "<message>"
